@@ -11,10 +11,11 @@
 ---
 
 ## 📌 Meghana N S  
-📧 **Email:** nsmeghana24@gmail.com  
-📱 **Phone:** +91 9380923743  
-📍 **Location:** Bengaluru, Karnataka – 561203  
-🔗 **LinkedIn:** https://www.linkedin.com/in/meghana-ns-84aab0289/ 
+**Email:** nsmeghana24@gmail.com  
+**Phone:** +91 9380923743  
+**Location:** Bengaluru, Karnataka – 561203  
+**Profile** https://meghannnnnnn.github.io/portfolio/
+**LinkedIn:** https://www.linkedin.com/in/meghana-ns-84aab0289/ 
 
 ---
 
@@ -40,7 +41,6 @@ Currently exploring **Backend Development, Cloud (AWS)**, and **AI/ML** to contr
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
 </p>
 
