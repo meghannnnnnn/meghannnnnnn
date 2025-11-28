@@ -9,10 +9,14 @@
 ---
 
 ## 📌 Meghana N S  
-**Email:** nsmeghana24@gmail.com  
-**Phone:** +91 9380923743  
-**Location:** Bengaluru, Karnataka – 561203  
+**Email:** nsmeghana24@gmail.com 
+ 
+**Phone:** +91 9380923743 
+ 
+**Location:** Bengaluru, Karnataka – 561203 
+ 
 **Profile** https://meghannnnnnn.github.io/portfolio/
+
 **LinkedIn:** https://www.linkedin.com/in/meghana-ns-84aab0289/ 
 
 ---
