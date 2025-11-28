@@ -11,17 +11,20 @@
 ## 📌 Meghana N S  
 **Email:** nsmeghana24@gmail.com 
  
-**Phone:** +91 9380923743 
+**Phone:**
+ +91 9380923743 
  
-**Location:** Bengaluru, Karnataka – 561203 
+**Location:** 
+Bengaluru, Karnataka –561203 
  
-**Profile** https://meghannnnnnn.github.io/portfolio/
+**Profile:** https://meghannnnnnn.github.io/portfolio/
 
 **LinkedIn:** https://www.linkedin.com/in/meghana-ns-84aab0289/ 
 
 ---
 
-## 👩‍💻 About Me  
+## 👩‍💻 About Me 
+ 
 I’m a passionate **Java Full Stack Developer** skilled in **Spring Boot, MySQL, HTML, CSS**, and backend development.  
 I enjoy building useful web applications and continuously improving my skills through real-world projects.  
 Currently exploring **Backend Development, Cloud (AWS)**, and **AI/ML** to contribute to impactful solutions.
